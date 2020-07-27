@@ -1,0 +1,77 @@
+{
+  "categorias": [
+    {
+      "titulo": "Música",
+      "cor": "#89CE94",
+ 
+      "videos": [
+        {
+          "titulo": "Flutua",
+          "url": "https://www.youtube.com/watch?v=mYQd7HsvVtI"
+        },
+        {
+          "titulo": "Bluesman",
+          "url": "https://www.youtube.com/watch?v=-xFz8zZo-Dw"
+        },
+        {
+          "titulo": "Cota não é esmola",
+          "url": "https://www.youtube.com/watch?v=QcQIaoHajoM"
+        },
+        {
+          "titulo": "AmarElo",
+          "url": "https://www.youtube.com/watch?v=PTDgP3BDPIU"
+        },
+        {
+          "titulo": "Triste, Louca ou Má",
+          "url": "https://www.youtube.com/watch?v=lKmYTHgBNoE"
+        }
+      ]
+    },
+    {
+      "titulo": "Soft Skills",
+      "cor": "#86A59C",
+
+      "videos": [
+        {
+          "titulo": "Comunicação Assertiva - Parte 1",
+          "url": "https://www.youtube.com/watch?v=lguYz3N8ZS8&t=41s"
+        },
+        {
+          "titulo": "Comunicação Assertiva - Parte 2",
+          "url": "https://www.youtube.com/watch?v=gLn__L8Je8A"
+        },
+        {
+          "titulo": "Como resolver problemas complexos",
+          "url": "https://www.youtube.com/watch?v=xJqAR8eUFU8&t=84s"
+        },
+        {
+          "titulo": "O poder de acreditar que se pode melhorar",
+          "url": "https://www.youtube.com/watch?v=1hPuRBhYoo8"
+        } 
+      ]
+    },
+    {
+      "titulo": "É preciso entender",
+      "cor": "#7D5BA6",
+
+      "videos": [
+        {
+          "titulo": "Feminismo e a igualdade de gênero no Brasil",
+          "url": "https://www.youtube.com/watch?v=otBS-EMOc90&t=363s"
+        },
+        {
+          "titulo": "Desigualdade racial no Brasil",
+          "url": "https://www.youtube.com/watch?v=ufbZkexu7E0&t=23s"
+        },
+        {
+          "titulo": "O que é racismo estrutural?",
+          "url": "https://www.youtube.com/watch?v=Ia3NrSoTSXk&t=8s"
+        },
+        {
+          "titulo": "A cultura do estupro",
+          "url": "https://www.youtube.com/watch?v=7a2uY64IwXY"
+        }
+      ]
+    }
+  ]
+}
